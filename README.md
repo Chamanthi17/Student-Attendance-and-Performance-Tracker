@@ -1,4 +1,4 @@
-## 🎓 Student Attendance & Performance Tracker - Java Console App 📊
+# 🎓 Student Attendance & Performance Tracker - Java Console App 📊
 
 Welcome to your Student Attendance and Performance Tracker — a simple yet powerful Java console application to help manage student records effortlessly! 🧑‍🎓✨
 
